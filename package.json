@@ -1,0 +1,21 @@
+{
+  "name": "con-trashed",
+  "displayName": "Con-Trashed",
+  "description": "A variation on the default dark VsCode theme that increases icon and tab contrast, and brightens some variables",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.75.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Con-Trashed",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Con-Trashed-color-theme.json"
+      }
+    ]
+  }
+}
