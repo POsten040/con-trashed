@@ -2,8 +2,9 @@
   "name": "con-trashed",
   "displayName": "con-trashed",
   "description": "A variation on VsCode Dark+ with higher contrast tabs and icons",
-  "version": "0.0.5",
-  "icon": "/img/con-trashed-sm.png",
+  "version": "0.2.0",
+  "publisher": "patrickosten040",
+  "icon": "img/con-trashed-sm.png",
   "repository": {
     "type": "git",
     "url": "https://github.com/POsten040/con-trashed.git"
