@@ -2,7 +2,7 @@
   "name": "con-trashed",
   "displayName": "con-trashed",
   "description": "A variation on VsCode Dark+ with higher contrast tabs and icons",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "publisher": "patrickosten040",
   "icon": "img/con-trashed-sm.png",
   "repository": {
